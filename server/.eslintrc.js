@@ -1,10 +1,10 @@
 module.exports = {
-  "env": {
-    "es6": true,
-    "node": true
+  env: {
+    es6: true,
+    node: true
   },
   // "extends": "eslint:recommended", //it's recommended to uncomment for browser script code
-  "rules": {
+  rules: {
     "no-console":  "error" ,
     "indent": [
       "error",
