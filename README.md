@@ -1,3 +1,3 @@
-# cryp2
-Cryptocurrency trader's decisions-support application
+# vue+express web app template
+Vue.js+Expess.js+(some)SQL template application
 
