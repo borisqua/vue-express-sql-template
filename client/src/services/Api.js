@@ -1,8 +1,7 @@
-'use strict';
-
 import axios from 'axios';
 
-export default () =>{
+// noinspection JSUnusedGlobalSymbols
+export default () => {
   return axios.create({
     baseURL: `http://localhost:8081`
   })
